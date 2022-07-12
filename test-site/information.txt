@@ -1,0 +1,10 @@
+color-picker-tool:
+#304F63
+
+front-image:
+https://pxhere.com/en/photo/836321
+
+font-roboto:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
